@@ -1,6 +1,6 @@
 # ¡Hola, soy Martín Gutiérrez! 👋
 
-### 💻 Analista De Sistemas .NET & Analista GeneXus
+### 💻 Analista De Sistemas & Analista GeneXus
 
 Analista De Sistema egresado de **BIOS** con certificación oficial en **GeneXus 18** y formación en el ecosistema **.NET** y **Python**. Me especializo en el desarrollo de aplicaciones web, diseño de arquitectura de software, gestión de bases de datos y análisis de datos.
 
