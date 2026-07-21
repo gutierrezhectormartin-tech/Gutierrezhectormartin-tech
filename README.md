@@ -1,8 +1,8 @@
 # ¡Hola, soy Martín Gutiérrez! 👋
 
-### 💻 Analista Programador Web .NET & Analista GeneXus
+### 💻 Analista De Sistemas .NET & Analista GeneXus
 
-Analista Programador egresado de **BIOS** con certificación oficial en **GeneXus 18** y formación en el ecosistema **.NET** y **Python**. Me especializo en el desarrollo de aplicaciones web, diseño de arquitectura de software, gestión de bases de datos y análisis de datos.
+Analista De Sistema egresado de **BIOS** con certificación oficial en **GeneXus 18** y formación en el ecosistema **.NET** y **Python**. Me especializo en el desarrollo de aplicaciones web, diseño de arquitectura de software, gestión de bases de datos y análisis de datos.
 
 ---
 
@@ -26,6 +26,7 @@ Analista Programador egresado de **BIOS** con certificación oficial en **GeneXu
 - 🎓 **Analista Programador Web .NET** | *Instituto BIOS*
 - 📜 **GeneXus 18 Junior Analyst** | *GeneXus Training*
 - 🐍 **Python Essentials 1** | *Cisco Networking Academy & OpenEDG Python Institute*
+- 🐍 **Python Essentials 2** | *Cisco Networking Academy & OpenEDG Python Institute*
 - 📊 **Introduction to Data Science** | *Cisco Networking Academy*
 
 ---
